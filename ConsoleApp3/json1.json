@@ -1,0 +1,49 @@
+﻿{
+    "preguntas": [
+      {
+        "id": 1,
+        "Descripcion": "Nueva pizza",
+        "Parametros": [
+          {
+            "Nombre": "id",
+            "Tipo": "int"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "Descripcion": "Modificar pizza",
+        "Parametros": [
+          {
+            "Nombre": "Id",
+            "Tipo": "int"
+          },
+          {
+            "Nombre": "Nombre",
+            "Tipo": "String"
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "Descripcion": "Ver pizza",
+        "Parametros": [
+          {
+            "Nombre": "id",
+            "Tipo": "int"
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "Descripcion": "Eliminar pizza",
+        "Parametros": [
+          {
+            "Nombre": "id",
+            "Tipo": "int"
+          }
+        ]
+      }
+    ]      
+  }
+
